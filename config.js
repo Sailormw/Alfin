@@ -1,17 +1,11 @@
-// S C R I P T  O R I  B Y  @BochilGaming 🔭
+// S C R I P T  O R I  B Y:mukhammadalfinhidayatulloh@gmail.com 🔭
 // M A D E  B Y  Letta - Sama 🐰  
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
 // • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
-// • The.Sad.Boy01
-// • Rasel comel
-// • Xtreshe (Beban)
-// • Dll
+// • Mukhammad Alfin Hidayatulloh 
+
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -61,8 +55,8 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6285172005356'
 global.nomorown = '6289699565795'
-global.namebot = '𝚃𝚘𝚑𝚔𝚊-𝚌𝚑𝚊𝚗'
-global.nameown = '𝙰𝚕𝚙𝚒𝚗-𝚍𝚎𝚜𝚞'
+global.namebot = 'KannaChan'
+global.nameown = 'RegiDesu'
 
 
 /*============== STAFF ==============*/
@@ -70,7 +64,7 @@ global.owner = [
   ['6289699565795'],
   ['6289699565795'],
   ['6289699565795'],
-  ['6289699565795', '𝙰𝚕𝚙𝚒𝚗-𝚍𝚎𝚜𝚞', true]
+  ['6289699565795', 'ReggiDesu', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,9 +109,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝚃𝚘𝚑𝚔𝚊 𝙲𝚑𝚊𝚗 あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝚃𝚘𝚑𝚔𝚊 - 𝙲𝚑𝚊𝚗˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝚃𝚘𝚑𝚔𝚊 𝙲𝚑𝚊𝚗'
+global.wm = '                「 Kanna 𝙲𝚑𝚊𝚗 あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Kanna - 𝙲𝚑𝚊𝚗˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'Kanna 𝙲𝚑𝚊𝚗'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
