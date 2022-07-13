@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/BochilGaming/games-wabot",
+    "homepage": "https://github.com/AlfinQwe/",
     "author": {
-        "name": "BochilGaming"
+        "name": "Mukhammad Alfin Hidayatulloh"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BochilGaming/games-wabot.git"
+        "url": "git+https://github.com/AlfinQwe/alfin"
     },
     "bugs": {
-        "url": "https://github.com/BochilGaming/games-wabot/issues"
+        "url": "https://github.com/AlfinQwe/alfin/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
