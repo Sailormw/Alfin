@@ -50,7 +50,7 @@ global.povo = '6288803795060'
 global.pgopay = '6288803795060'
 global.ppulsa = '6288803795060'
 global.ppulsa2 = '6288803795060'
-global.psaweria = '-'
+global.psaweria = 'G'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6288803795060'
