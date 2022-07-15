@@ -41,8 +41,8 @@ let wibh = moment.tz('Asia/Surabaya').format('HH')
 global.sig = 'https://www.instagram.com/alfinqwe_id'
 global.sgh = 'https://github.com/AlfinQwe'
 global.sgc = 'https://chat.whatsapp.com/KkRWJqGyeIg7Sbgs8tVeaw'
-global.sdc = '-'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sdc = 'https://youtube.com/channel/UCI3oeINgi5l4hmbe1vgr5Pg'
+global.snh = 'https://youtube.com/channel/UCI3oeINgi5l4hmbe1vgr5Pg'
 
 /*============== PAYMENT ==============*/
 global.pdana = '6288803795060'
@@ -64,7 +64,7 @@ global.owner = [
   ['6289699565795'],
   ['6289699565795'],
   ['6289699565795'],
-  ['6289699565795', '時崎 狂三', true]
+  ['6289699565795', 'Mukhammad Alfin Hidayatulloh', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
